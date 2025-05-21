@@ -18,7 +18,7 @@ This is a **from-scratch implementation** of the original Transformer model intr
 ##  Try It Out
 
 ```bash
-python Transformer (2017).py
+python "Transformer (2017).py"
 ```
 
 Expect weird outputs — it’s just a forward pass on untrained weights ,there is no training loop. As a result, the outputs are mostly nonsensical :) .
